@@ -1,11 +1,11 @@
 {
   "name": "veda-events",
   "version": "1.0.0",
-  "description": "Website for Weda Events",
+  "description": "Website for Veda Events",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "echo \"Ready to build\""
+    "build": "mkdir -p dist && echo \"<h1>Veda Events - Coming Soon</h1>\" > dist/index.html"
   },
   "author": "Abhilash Boyinapalli",
   "license": "ISC",
