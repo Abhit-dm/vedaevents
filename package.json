@@ -1,0 +1,13 @@
+{
+  "name": "veda-events",
+  "version": "1.0.0",
+  "description": "Website for Weda Events",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo \"Ready to build\""
+  },
+  "author": "Abhilash Boyinapalli",
+  "license": "ISC",
+  "dependencies": {}
+}
